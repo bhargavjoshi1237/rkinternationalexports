@@ -522,16 +522,7 @@ body {
   height: 100%;
 }
 
-body {
-  font-family: -apple-system, ".SFNSText-Regular", 'Helvetica Neue', sans-serif;
-  line-height: 1.5;
-  color: $grey;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: $background;
-  // -webkit-filter: hue-rotate(-90deg);
-}
+
 
 img {
   max-width: 100%;
