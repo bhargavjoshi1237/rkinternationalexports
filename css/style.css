@@ -12,16 +12,7 @@ width: 100%;
 height: auto;
 }
 
-.container {
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 900px;
-    height: 600px;
-    background: #fff;
-    margin: 20px;
-}
+
 
 img.Image { max-width: 100%;}
 div#ImageContainer { width: 600px; }
