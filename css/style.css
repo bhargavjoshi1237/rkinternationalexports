@@ -13,7 +13,10 @@ height: auto;
 }
 
 .body {
-    
+  font-family: -apple-system, ".SFNSText-Regular", 'Helvetica Neue', sans-serif;
+  line-height: 1.5;
+  color: $grey;
+  display: flex;  
 }
 
 img.Image { max-width: 100%;}
