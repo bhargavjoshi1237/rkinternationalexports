@@ -11,6 +11,9 @@ width: 100%;
 height: auto;
 }
 
+img.Image { max-width: 100%;}
+div#ImageContainer { width: 600px; }
+
 .fw-medium {
     font-weight: 600 !important;
 }
