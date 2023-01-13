@@ -17,8 +17,9 @@ height: auto;
   line-height: 1.5;
   color: $grey;
   display: flex;  
-   justify-content: center;
-   background-color: $background;
+  align-items: center;
+  justify-content: center;
+  background-color: $background;
 }
 
 img.Image { max-width: 100%;}
