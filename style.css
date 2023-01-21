@@ -13,6 +13,10 @@
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
   font-size: 16px;
 }
+ul > li {
+    display: inline-block;
+    /* You can also add some margins here to make it look prettier */
+}
 .middle {
 position: absolute;
 top: 50%;
